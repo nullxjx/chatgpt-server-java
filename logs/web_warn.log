@@ -1,0 +1,17 @@
+2024-09-09 17:29:25.267 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:29:35.262 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:29:38.314 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:29:40.810 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:29:42.930 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:44:34.194 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:44:53.947 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:46:24.528 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:46:26.806 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 17:46:29.910 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:01:58.342 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:30:55.677 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:30:59.854 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:31:08.667 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:31:11.604 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:31:14.254 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
+2024-09-09 19:31:15.884 [OkHttp http://49.235.138.227:8080/...] WARN  c.j.chatgpt.listener.OpenAIEventSourceListener - 客户端中止了连接：java.io.IOException: Broken pipe
